@@ -21,4 +21,3 @@ output:
 
 ![Image](https://user-images.githubusercontent.com/108044430/211279874-891cc670-44a1-4f88-9375-4f6aec8b9eff.jpg)
 ![Image](https://user-images.githubusercontent.com/108044430/211279872-1126c217-320d-4146-b865-430c60b5e710.jpg)
-![Image](https://user-images.githubusercontent.com/108044430/211279873-2a661d13-6170-4744-b898-89027be9b3c8.jpg)
